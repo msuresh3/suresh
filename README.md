@@ -1,2 +1,0 @@
-# suresh
-Exploring embedded linux
